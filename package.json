@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/canadianveggie/hubot-calculator.git"
+    "url": "https://github.com/hubot-scripts/hubot-calculator"
   },
 
   "bugs": {
-    "url": "https://github.com/canadianveggie/hubot-calculator/issues"
+    "url": "https://github.com/hubot-scripts/hubot-calculator/issues"
   },
 
   "dependencies": {
