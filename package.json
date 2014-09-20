@@ -1,7 +1,7 @@
 {
   "name": "hubot-calculator",
   "description": "Hubot script for basic calculator functionality",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "author": "Christopher Porter <chris@pulseenergy.com>",
   "license": "MIT",
   "keywords": [
